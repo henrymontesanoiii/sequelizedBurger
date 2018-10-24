@@ -1,0 +1,40 @@
+
+
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+  background: aqua;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
+
+h1 {
+  font-family: 'Gloria Hallelujah', cursive;
+  text-align: center;
+  color: #a554fc;
+  text-shadow: 2px 2px rgb(252, 74, 74);
+  font-size: 85px;
+}
+h2 {font-family: 'Text Me One', sans-serif; text-align: center;color: #a554fc;text-shadow: 1px 1px rgb(252, 74, 74);font-weight: bold;}
+
+body {
+background-image: url("../css/images/burger.jpg");
+background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    color: #a554fc;
+    font-weight: bold;
+    
+    
+}
+  
+.card {
+opacity: .95;
+box-shadow: 10px 10px 5px grey;
+}
